@@ -55,7 +55,7 @@ def login():
 def do_login():
     user_name = request.form['user_name']
     password = request.form['password']
-    if user_name != 'xyz' or password != 'kumikomi':
+    if user_name != 'x' or password != 'kumikomi':
         return render_template('login.html', error_message='ユーザー名かパスワードが間違っています')
     return render_template('login.html', success_message='ログイン処理成功！')
 

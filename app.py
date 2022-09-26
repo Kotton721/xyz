@@ -6,6 +6,7 @@ from flask import Flask,render_template,send_from_directory
 from flask import request
 import folium
 import pandas as pd
+from folium import plugins
 app = Flask(__name__)
 
 @app.route('/')

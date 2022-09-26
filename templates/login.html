@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>ログイン</title>
+</head>
+<body>
+    <form action="/" method="post">
+        <label>ユーザー名</label>
+        <input type="text" name="user_name">
+        <label>パスワード</label>
+        <input type="password" name="password">
+        <input type="submit">
+    </form>
+    {% if error_message %}
+        <p style="color: red;">{{ error_message }}</p>
+    {% endif %}
+    {% if success_message %}
+        <p style="color: blue;">{{ success_message }}</p>
+        <form action="/mainpage" method="get">
+            <input type="submit" value='次のページへ'>
+          </form>
+    {% endif %}
+</body>
+</html>

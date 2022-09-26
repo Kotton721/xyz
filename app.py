@@ -4,6 +4,7 @@ from hashlib import new
 from importlib.resources import path
 from flask import Flask,render_template,send_from_directory
 from flask import request
+import folium
 app = Flask(__name__)
 
 @app.route('/')

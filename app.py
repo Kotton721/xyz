@@ -6,10 +6,11 @@ from flask import Flask,render_template,send_from_directory
 from flask import request
 import folium
 import pandas as pd
+import re
 from folium import plugins
 app = Flask(__name__)
 
-print('jikkousita')
+
 fname="gpsexa.gpx"
 with open(fname, mode='r') as f:
     r = f.read()

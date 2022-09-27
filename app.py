@@ -43,7 +43,7 @@ def hello():
 #音声ファイルを返す
 @app.route("/music/voice")
 def play_music():
-    return send_from_directory("music", "la.wav")
+    return send_from_directory("music", "test.wav")
 
 @app.route('/', methods=['GET', 'POST'])
 def login():
@@ -55,7 +55,7 @@ def login():
 def do_login():
     user_name = request.form['user_name']
     password = request.form['password']
-    if user_name != 'x' or password != 'kumikomi':
+    if user_name != 'xyz' or password != 'kumikomi':
         return render_template('login.html', error_message='ユーザー名かパスワードが間違っています')
     return render_template('login.html', success_message='ログイン処理成功！')
 

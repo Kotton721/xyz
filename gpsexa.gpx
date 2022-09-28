@@ -5,14 +5,14 @@
         xsi:schemaLocation="http://www.topografix.com/GPX/1/1
         http://www.topografix.com/GPX/1/1/gpx.xsd">
  <metadata>
-  <time>2022-09-28T07:18:59.497Z</time>
+  <time>2022-09-28T07:26:27.483Z</time>
  </metadata>
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310783333" lon="134.010600000">
-    <ele>80.4000</ele>
-    <time>2017-04-26T02:03:45.000Z</time>
+   <trkpt lat="34.310896667" lon="134.010416667">
+    <ele>64.3000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -20,9 +20,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310780000" lon="134.010598333">
-    <ele>80.4000</ele>
-    <time>2017-06-13T15:08:49.000Z</time>
+   <trkpt lat="34.310900000" lon="134.010420000">
+    <ele>64.0000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -30,9 +30,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310780000" lon="134.010598333">
-    <ele>80.3000</ele>
-    <time>2017-08-01T04:13:53.000Z</time>
+   <trkpt lat="34.310906667" lon="134.010423333">
+    <ele>63.7000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -40,9 +40,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310781667" lon="134.010598333">
-    <ele>80.3000</ele>
-    <time>2017-09-18T17:18:57.000Z</time>
+   <trkpt lat="34.310911667" lon="134.010421667">
+    <ele>63.4000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -50,9 +50,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310785000" lon="134.010601667">
-    <ele>80.3000</ele>
-    <time>2017-11-06T06:24:01.000Z</time>
+   <trkpt lat="34.310916667" lon="134.010420000">
+    <ele>63.1000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -60,9 +60,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310781667" lon="134.010603333">
-    <ele>80.3000</ele>
-    <time>2017-12-24T19:29:05.000Z</time>
+   <trkpt lat="34.310923333" lon="134.010416667">
+    <ele>62.7000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -70,9 +70,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310780000" lon="134.010600000">
-    <ele>80.2000</ele>
-    <time>2018-02-11T08:34:09.000Z</time>
+   <trkpt lat="34.310926667" lon="134.010411667">
+    <ele>62.4000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -80,9 +80,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310781667" lon="134.010605000">
-    <ele>80.2000</ele>
-    <time>2018-03-31T21:39:13.000Z</time>
+   <trkpt lat="34.310925000" lon="134.010408333">
+    <ele>62.0000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -90,9 +90,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310780000" lon="134.010605000">
-    <ele>80.2000</ele>
-    <time>2018-05-19T10:44:17.000Z</time>
+   <trkpt lat="34.310918333" lon="134.010400000">
+    <ele>61.7000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -100,9 +100,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310778333" lon="134.010605000">
-    <ele>80.1000</ele>
-    <time>2018-07-06T23:49:21.000Z</time>
+   <trkpt lat="34.310911667" lon="134.010401667">
+    <ele>61.3000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -110,9 +110,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310776667" lon="134.010605000">
-    <ele>80.1000</ele>
-    <time>2018-08-24T12:54:25.000Z</time>
+   <trkpt lat="34.310911667" lon="134.010401667">
+    <ele>60.9000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -120,9 +120,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310775000" lon="134.010605000">
-    <ele>80.1000</ele>
-    <time>2018-10-12T01:59:29.000Z</time>
+   <trkpt lat="34.310910000" lon="134.010401667">
+    <ele>60.6000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -130,9 +130,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310771667" lon="134.010606667">
-    <ele>80.1000</ele>
-    <time>2018-11-29T15:04:33.000Z</time>
+   <trkpt lat="34.310908333" lon="134.010401667">
+    <ele>60.2000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -140,9 +140,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310763333" lon="134.010621667">
-    <ele>80.0000</ele>
-    <time>2019-01-17T04:09:37.000Z</time>
+   <trkpt lat="34.310906667" lon="134.010400000">
+    <ele>59.9000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -150,9 +150,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310751667" lon="134.010635000">
-    <ele>79.9000</ele>
-    <time>2019-03-06T17:14:41.000Z</time>
+   <trkpt lat="34.310905000" lon="134.010398333">
+    <ele>59.5000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -160,9 +160,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310743333" lon="134.010645000">
-    <ele>79.9000</ele>
-    <time>2019-04-24T06:19:45.000Z</time>
+   <trkpt lat="34.310903333" lon="134.010381667">
+    <ele>59.2000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -170,9 +170,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310731667" lon="134.010651667">
-    <ele>79.8000</ele>
-    <time>2019-06-11T19:24:49.000Z</time>
+   <trkpt lat="34.310900000" lon="134.010366667">
+    <ele>58.8000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -180,9 +180,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310725000" lon="134.010658333">
-    <ele>79.7000</ele>
-    <time>2019-07-30T08:29:53.000Z</time>
+   <trkpt lat="34.310891667" lon="134.010350000">
+    <ele>58.4000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -190,9 +190,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310716667" lon="134.010666667">
-    <ele>79.5000</ele>
-    <time>2019-09-16T21:34:57.000Z</time>
+   <trkpt lat="34.310885000" lon="134.010335000">
+    <ele>58.1000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -200,9 +200,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310710000" lon="134.010673333">
-    <ele>79.4000</ele>
-    <time>2019-11-04T10:40:01.000Z</time>
+   <trkpt lat="34.310878333" lon="134.010320000">
+    <ele>57.7000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -210,9 +210,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310703333" lon="134.010678333">
-    <ele>79.3000</ele>
-    <time>2019-12-22T23:45:05.000Z</time>
+   <trkpt lat="34.310871667" lon="134.010310000">
+    <ele>57.3000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -220,9 +220,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310695000" lon="134.010681667">
-    <ele>79.1000</ele>
-    <time>2020-02-09T12:50:09.000Z</time>
+   <trkpt lat="34.310863333" lon="134.010301667">
+    <ele>57.0000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -230,9 +230,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310691667" lon="134.010680000">
-    <ele>79.0000</ele>
-    <time>2020-03-29T01:55:13.000Z</time>
+   <trkpt lat="34.310848333" lon="134.010291667">
+    <ele>56.7000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -240,9 +240,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310690000" lon="134.010681667">
-    <ele>78.8000</ele>
-    <time>2020-05-16T15:00:17.000Z</time>
+   <trkpt lat="34.310836667" lon="134.010281667">
+    <ele>56.4000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -250,9 +250,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310690000" lon="134.010678333">
-    <ele>78.6000</ele>
-    <time>2020-07-04T04:05:21.000Z</time>
+   <trkpt lat="34.310821667" lon="134.010276667">
+    <ele>56.1000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -260,9 +260,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310688333" lon="134.010675000">
-    <ele>78.4000</ele>
-    <time>2020-08-21T17:10:25.000Z</time>
+   <trkpt lat="34.310810000" lon="134.010275000">
+    <ele>55.8000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -270,9 +270,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310690000" lon="134.010671667">
-    <ele>78.2000</ele>
-    <time>2020-10-09T06:15:29.000Z</time>
+   <trkpt lat="34.310798333" lon="134.010275000">
+    <ele>55.5000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -280,9 +280,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310691667" lon="134.010673333">
-    <ele>78.0000</ele>
-    <time>2020-11-26T19:20:33.000Z</time>
+   <trkpt lat="34.310785000" lon="134.010280000">
+    <ele>55.3000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -290,9 +290,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310695000" lon="134.010676667">
-    <ele>77.8000</ele>
-    <time>2021-01-14T08:25:37.000Z</time>
+   <trkpt lat="34.310775000" lon="134.010286667">
+    <ele>55.1000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -300,9 +300,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310700000" lon="134.010683333">
-    <ele>77.6000</ele>
-    <time>2021-03-03T21:30:41.000Z</time>
+   <trkpt lat="34.310768333" lon="134.010291667">
+    <ele>54.9000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -310,9 +310,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310706667" lon="134.010690000">
-    <ele>77.4000</ele>
-    <time>2021-04-21T10:35:45.000Z</time>
+   <trkpt lat="34.310760000" lon="134.010298333">
+    <ele>54.7000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -320,9 +320,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310711667" lon="134.010691667">
-    <ele>77.2000</ele>
-    <time>2021-06-08T23:40:49.000Z</time>
+   <trkpt lat="34.310753333" lon="134.010303333">
+    <ele>54.5000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -330,9 +330,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310711667" lon="134.010693333">
-    <ele>76.9000</ele>
-    <time>2021-07-27T12:45:53.000Z</time>
+   <trkpt lat="34.310746667" lon="134.010308333">
+    <ele>54.3000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -340,9 +340,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310711667" lon="134.010696667">
-    <ele>76.7000</ele>
-    <time>2021-09-14T01:50:57.000Z</time>
+   <trkpt lat="34.310740000" lon="134.010311667">
+    <ele>54.1000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -350,9 +350,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310711667" lon="134.010698333">
-    <ele>76.5000</ele>
-    <time>2021-11-01T14:56:01.000Z</time>
+   <trkpt lat="34.310731667" lon="134.010320000">
+    <ele>53.9000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -360,9 +360,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310713333" lon="134.010700000">
-    <ele>76.3000</ele>
-    <time>2021-12-20T04:01:05.000Z</time>
+   <trkpt lat="34.310723333" lon="134.010330000">
+    <ele>53.7000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -370,9 +370,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310715000" lon="134.010701667">
-    <ele>76.1000</ele>
-    <time>2022-02-06T17:06:09.000Z</time>
+   <trkpt lat="34.310708333" lon="134.010345000">
+    <ele>53.6000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -380,9 +380,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310718333" lon="134.010703333">
-    <ele>75.9000</ele>
-    <time>2022-03-27T06:11:13.000Z</time>
+   <trkpt lat="34.310693333" lon="134.010361667">
+    <ele>53.4000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -390,9 +390,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310728333" lon="134.010701667">
-    <ele>75.7000</ele>
-    <time>2022-05-14T19:16:17.000Z</time>
+   <trkpt lat="34.310676667" lon="134.010375000">
+    <ele>53.3000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -400,9 +400,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310740000" lon="134.010711667">
-    <ele>75.5000</ele>
-    <time>2022-07-02T08:21:21.000Z</time>
+   <trkpt lat="34.310646667" lon="134.010400000">
+    <ele>53.2000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -410,9 +410,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310750000" lon="134.010718333">
-    <ele>75.2000</ele>
-    <time>2022-08-19T21:26:25.000Z</time>
+   <trkpt lat="34.310616667" lon="134.010431667">
+    <ele>53.1000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -420,9 +420,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310765000" lon="134.010726667">
-    <ele>75.0000</ele>
-    <time>2022-10-07T10:31:29.000Z</time>
+   <trkpt lat="34.310606667" lon="134.010446667">
+    <ele>53.0000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -430,9 +430,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310775000" lon="134.010731667">
-    <ele>74.8000</ele>
-    <time>2022-11-24T23:36:33.000Z</time>
+   <trkpt lat="34.310601667" lon="134.010456667">
+    <ele>52.9000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -440,9 +440,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310785000" lon="134.010740000">
-    <ele>74.5000</ele>
-    <time>2023-01-12T12:41:37.000Z</time>
+   <trkpt lat="34.310583333" lon="134.010471667">
+    <ele>52.9000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -450,9 +450,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310791667" lon="134.010748333">
-    <ele>74.3000</ele>
-    <time>2023-03-02T01:46:41.000Z</time>
+   <trkpt lat="34.310558333" lon="134.010478333">
+    <ele>52.8000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -460,9 +460,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310800000" lon="134.010758333">
-    <ele>74.0000</ele>
-    <time>2023-04-19T14:51:45.000Z</time>
+   <trkpt lat="34.310530000" lon="134.010491667">
+    <ele>52.8000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -470,9 +470,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310805000" lon="134.010766667">
-    <ele>73.8000</ele>
-    <time>2023-06-07T03:56:49.000Z</time>
+   <trkpt lat="34.310493333" lon="134.010506667">
+    <ele>52.8000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -480,9 +480,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310811667" lon="134.010780000">
-    <ele>73.5000</ele>
-    <time>2023-07-25T17:01:53.000Z</time>
+   <trkpt lat="34.310471667" lon="134.010526667">
+    <ele>52.8000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -490,9 +490,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310818333" lon="134.010790000">
-    <ele>73.2000</ele>
-    <time>2023-09-12T06:06:57.000Z</time>
+   <trkpt lat="34.310465000" lon="134.010528333">
+    <ele>52.9000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -500,9 +500,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310820000" lon="134.010793333">
-    <ele>72.9000</ele>
-    <time>2023-10-30T19:12:01.000Z</time>
+   <trkpt lat="34.310461667" lon="134.010530000">
+    <ele>52.9000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -510,9 +510,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310820000" lon="134.010796667">
-    <ele>72.7000</ele>
-    <time>2023-12-18T08:17:05.000Z</time>
+   <trkpt lat="34.310458333" lon="134.010530000">
+    <ele>53.0000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -520,9 +520,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310820000" lon="134.010798333">
-    <ele>72.4000</ele>
-    <time>2024-02-04T21:22:09.000Z</time>
+   <trkpt lat="34.310456667" lon="134.010523333">
+    <ele>53.1000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -530,9 +530,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310820000" lon="134.010796667">
-    <ele>72.1000</ele>
-    <time>2024-03-24T10:27:13.000Z</time>
+   <trkpt lat="34.310455000" lon="134.010521667">
+    <ele>53.2000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -540,9 +540,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310818333" lon="134.010793333">
-    <ele>71.8000</ele>
-    <time>2024-05-11T23:32:17.000Z</time>
+   <trkpt lat="34.310451667" lon="134.010523333">
+    <ele>53.4000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -550,9 +550,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310818333" lon="134.010793333">
-    <ele>71.6000</ele>
-    <time>2024-06-29T12:37:21.000Z</time>
+   <trkpt lat="34.310445000" lon="134.010530000">
+    <ele>53.5000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -560,9 +560,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310820000" lon="134.010795000">
-    <ele>71.3000</ele>
-    <time>2024-08-17T01:42:25.000Z</time>
+   <trkpt lat="34.310445000" lon="134.010538333">
+    <ele>53.7000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -570,9 +570,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310823333" lon="134.010796667">
-    <ele>71.1000</ele>
-    <time>2024-10-04T14:47:29.000Z</time>
+   <trkpt lat="34.310441667" lon="134.010546667">
+    <ele>53.8000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -580,9 +580,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310823333" lon="134.010793333">
-    <ele>70.8000</ele>
-    <time>2024-11-22T03:52:33.000Z</time>
+   <trkpt lat="34.310440000" lon="134.010555000">
+    <ele>54.0000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -590,9 +590,9 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310830000" lon="134.010795000">
-    <ele>70.5000</ele>
-    <time>2025-01-09T16:57:37.000Z</time>
+   <trkpt lat="34.310440000" lon="134.010561667">
+    <ele>54.2000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>
@@ -600,9 +600,19 @@
  <trk>
   <src>GPSD 3.22</src>
   <trkseg>
-   <trkpt lat="34.310835000" lon="134.010796667">
-    <ele>70.3000</ele>
-    <time>2025-02-27T06:02:41.000Z</time>
+   <trkpt lat="34.310440000" lon="134.010566667">
+    <ele>54.5000</ele>
+    <time>NaN</time>
+    <fix>3d</fix>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <src>GPSD 3.22</src>
+  <trkseg>
+   <trkpt lat="34.310438333" lon="134.010565000">
+    <ele>54.7000</ele>
+    <time>NaN</time>
     <fix>3d</fix>
    </trkpt>
   </trkseg>

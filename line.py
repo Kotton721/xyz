@@ -41,7 +41,9 @@ while True:
                     print("syuuryou")
                     time.sleep(30)
                     subprocess.run(['sudo','systemctl','stop','gpxlogger.service'])
-                    subprocess.run(['sudo','python','/home/xyz/xyz/run.py'])
+                    subprocess.run(['git','init'])
+                    subprocess.run(['sudo','git','add','music','locations.csv','gpsexa.gpx','app.py'])
+                    subprocess.run(['sudo','git','commit','-m','"afafa"'])
                     print("ok")
                 
             time.sleep(0.2)

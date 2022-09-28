@@ -1,5 +1,5 @@
 import subprocess
 
 subprocess.run(['git','init'])
-subprocess.run(['git','add','music/test.wav','locations.csv','gpsexa.gpx','app.py'])
-subprocess.run(['git','commit','-m','"afafa"'])
+subprocess.run(['sudo','git','add','music/test.wav','locations.csv','gpsexa.gpx','app.py'])
+subprocess.run(['sudo','git','commit','-m','"afafa"'])

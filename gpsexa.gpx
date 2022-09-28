@@ -525,3 +525,96 @@
     <time>1994-06-16T07:32:17.000Z</time>
     <fix>3d</fix>
    </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <src>GPSD 3.22</src>
+  <trkseg>
+   <trkpt lat="34.310865000" lon="134.010616667">
+    <ele>66.1000</ele>
+    <time>1994-08-03T20:37:21.000Z</time>
+    <fix>3d</fix>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <src>GPSD 3.22</src>
+  <trkseg>
+   <trkpt lat="34.310860000" lon="134.010613333">
+    <ele>66.0000</ele>
+    <time>1994-09-21T09:42:25.000Z</time>
+    <fix>3d</fix>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <src>GPSD 3.22</src>
+  <trkseg>
+   <trkpt lat="34.310856667" lon="134.010615000">
+    <ele>66.0000</ele>
+    <time>1994-11-08T22:47:29.000Z</time>
+    <fix>3d</fix>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <src>GPSD 3.22</src>
+  <trkseg>
+   <trkpt lat="34.310850000" lon="134.010608333">
+    <ele>66.0000</ele>
+    <time>1994-12-27T11:52:33.000Z</time>
+    <fix>3d</fix>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <src>GPSD 3.22</src>
+  <trkseg>
+   <trkpt lat="34.310846667" lon="134.010608333">
+    <ele>66.0000</ele>
+    <time>1995-02-14T00:57:37.000Z</time>
+    <fix>3d</fix>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <src>GPSD 3.22</src>
+  <trkseg>
+   <trkpt lat="34.310846667" lon="134.010611667">
+    <ele>65.9000</ele>
+    <time>1995-04-03T14:02:41.000Z</time>
+    <fix>3d</fix>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <src>GPSD 3.22</src>
+  <trkseg>
+   <trkpt lat="34.310846667" lon="134.010616667">
+    <ele>65.9000</ele>
+    <time>1995-05-22T03:07:45.000Z</time>
+    <fix>3d</fix>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <src>GPSD 3.22</src>
+  <trkseg>
+   <trkpt lat="34.310846667" lon="134.010620000">
+    <ele>66.0000</ele>
+    <time>1995-07-09T16:12:49.000Z</time>
+    <fix>3d</fix>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <src>GPSD 3.22</src>
+  <trkseg>
+   <trkpt lat="34.310845000" lon="134.010626667">
+    <ele>66.0000</ele>
+    <time>1995-08-27T05:17:53.000Z</time>
+    <fix>3d</fix>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
